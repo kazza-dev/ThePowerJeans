@@ -1,7 +1,9 @@
 <div align="center">
 <a href="https://thepowerjeans.vercel.app/">
 
-![logo]
+<div align="center">
+	<img width="500" src="public/favicon.svg" />
+</div>
 
 </a>
 <h3><strong>The Power Jeans</strong></h3>
@@ -53,7 +55,6 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[logo]: public/favicon.svg
 [astro-url]: https://astro.build/
 [react-url]: https://react.dev/
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
